@@ -1,0 +1,38 @@
+body {
+  background-color: rgb(27, 27, 27);
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+}
+.container {
+  margin: 0 100px;
+  justify-items: center;
+}
+h1 {
+  font-size: 36px;
+}
+h2 {
+  font-size: 30px;
+  margin-top: 40px;
+}
+ul {
+  list-style: square;
+}
+ol {
+  list-style: decimal;
+}
+
+li {
+  margin: 20px;
+}
+img {
+  display: block;
+}
+
+a {
+  color: wheat;
+  text-decoration: none;
+}
+.footer-link{
+  margin: 50px;
+}
